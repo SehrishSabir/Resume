@@ -1,2 +1,2 @@
-# ResumeSide
+# ResumeSite
 My Resume Template
